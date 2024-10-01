@@ -42,6 +42,10 @@ python main_gui.py
 - Escolha o número de threads.
 - Selecione o método HTTP (GET ou POST).
 
+## Links para os Repositórios
+
+- Acesse a [versão sem interface gráfica](https://github.com/Peaky-Hackers/4ngel-DoS).
+
 ## Atenção
 
 ⚠️ Esta ferramenta deve ser usada apenas para testes éticos e em ambientes controlados, com permissão explícita. O uso inadequado pode ser ilegal. O autor não se responsabiliza por qualquer uso indevido.
